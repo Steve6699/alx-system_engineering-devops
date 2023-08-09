@@ -1,1 +1,1 @@
- here we solve all tasks fot shell-basics
+here we solve all script of 0x03-shell_variables_expansions 
